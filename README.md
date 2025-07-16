@@ -22,7 +22,7 @@ Our approach is guided by four core beliefs about what it takes to build a succe
 >
 > Your primary bottleneck isn't writing code—it's the entire lifecycle of shipping a feature. Generating code is only one piece of the puzzle. PDT is designed to expedite the *entire path* from `idea -> spec -> code -> tests -> docs -> marketing`. It's a holistic system for building and selling, not just an AI wrapper.
 
-> ### 3\. An Opinionated Workflow, Not "Vibe Coding".
+> ### 3\. An Opinionated Workflow, Not Vibe Coding.
 >
 > Your tools should make you better at your job. Simply prompting a generic AI is inconsistent and unpredictable. PDT introduces a structured, repeatable workflow. Through clear commands (`pdt spec`, `pdt code`), architectural guardrails, and high-quality templates, we ensure the AI's output is always consistent, high-quality, and aligned with your project's architecture.
 
