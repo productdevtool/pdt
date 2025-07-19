@@ -1,8 +1,12 @@
------
+<p align="center">
+    <img align="center" width="480" height="270" alt="PDT" src="https://github.com/user-attachments/assets/b1b05e40-d398-47cc-82a0-a1f1dd4946e5" />
+</p>
 
-# pdt: Product Dev Tool
-
-> **pdt** is an opinionated, AI-native toolkit for founders to get from idea to first paying customer, faster. It's not just about generating code; it's about building a business.
+<div align="center">
+    <h1>Product Dev Tool</h3>
+    <h4><em>pdt is an opinionated, AI-native toolkit for founders to get from idea to first paying customer, faster.</em></h4>
+    <h4><em>It's not just about generating code; it's about building a business.</em></h4>
+</div>
 
 Building a new venture is a battle against time and complexity. Founders have great ideas, but the friction between that idea and a market-ready product—complete with a marketing site, user authentication, payments, and documentation—is immense.
 
