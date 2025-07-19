@@ -4,7 +4,7 @@
 
 <div align="center">
     <h1>Product Dev Tool</h3>
-    <h4><em>pdt is an opinionated, AI-native toolkit for founders to get from idea to first paying customer, faster.</em></h4>
+    <h4><em>PDT is an opinionated, AI-native toolkit for founders to get from idea to first paying customer, faster.</em></h4>
     <h4><em>It's not just about generating code; it's about building a business.</em></h4>
 </div>
 
