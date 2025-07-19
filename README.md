@@ -12,8 +12,6 @@ Building a new venture is a battle against time and complexity. Founders have gr
 
 PDT is designed to eliminate that friction. It's an all-in-one, open-source system that turns a generic AI assistant into a specialized, highly effective system builder, allowing you to act as a strategic director, not a tactical programmer.
 
------
-
 ## Our Philosophy
 
 Our approach is guided by four core beliefs about what it takes to build a successful product in the age of AI.
@@ -34,7 +32,6 @@ Our approach is guided by four core beliefs about what it takes to build a succe
 >
 > Building a modern product is hard enough without having to become an expert in a professional developer's toolchain (CI/CD, webpack, testing frameworks, etc.). PDT provides this expert context *for* you, abstracting away the complexity so you can focus on your vision and your customers. It's built for the long tail of founders and builders who are experts in their domain, not necessarily in software engineering.
 
------
 
 ## The Workflow
 
